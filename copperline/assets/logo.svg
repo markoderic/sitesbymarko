@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="30" fill="#0B0D0F"/>
+  <path d="M100 40 33 66v40c0 34 27 56 67 64 40-8 67-30 67-64V66L100 40Zm0 20 47 18v28c0 24-19 39-47 47-28-8-47-23-47-47V78l47-18Z" fill="#E50914"/>
+  <path d="M78 98l16 16 30-32" fill="none" stroke="#F8FAF8" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="100" y="188" font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#F8FAF8" text-anchor="middle" letter-spacing="4">CL</text>
+</svg>
